@@ -1,6 +1,23 @@
-# JavaScript - Chuck Norris Joke Generator Project
-Chuck Norris joke generator made with JavaScript and AJAX.
+# 🖥️ Chuck Norris Joke Generator
 
-This project was made during the "Modern JavaScript From The Beginning" course on Udemy.
+<h1 align="center">
+  <img src=".github/logo.png" width="200px" />
+</h1>
 
-In this project I've used HTML, CSS and JavaScript with AJAX.
+## 🔎️ Description
+An application to test the basics of Angular.
+
+This project was made during the <a href="https://www.udemy.com/course/modern-javascript-from-the-beginning/">Modern JavaScript From The Beginning</a> course on Udemy.
+
+## 🚀️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- AJAX
+ 
+---
+
+Thank you and good coding 😎️
+
+Made by **<a href="https://paulophlp.github.io/portfolio/" target="__blank">Paulo Lima 🤓️</a>**
