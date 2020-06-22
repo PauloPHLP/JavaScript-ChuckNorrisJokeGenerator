@@ -5,7 +5,7 @@
 </h1>
 
 ## 🔎️ Description
-An application to test the basics of Angular.
+Chuck Norris joke generator made with JavaScript and AJAX.
 
 This project was made during the <a href="https://www.udemy.com/course/modern-javascript-from-the-beginning/">Modern JavaScript From The Beginning</a> course on Udemy.
 
